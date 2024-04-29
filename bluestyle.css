@@ -7,3 +7,8 @@ h1 {
     margin-left: 20px;
     font-size: 60px;
 }
+
+p {
+    font-family: "Monaco";
+    color: royalblue;
+}
